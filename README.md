@@ -68,4 +68,3 @@ Find out more in our [contributing](https://github.com/adyen-examples/.github/bl
 MIT license. For more information, see the **LICENSE** file.
 
 
-test123
